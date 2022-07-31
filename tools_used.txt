@@ -1,0 +1,4 @@
+aws s3
+aws glue
+aws lambda
+aws athena
